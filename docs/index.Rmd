@@ -1,0 +1,54 @@
+---
+title: '<div class="jumbotron"><h1 class="title toc-ignore display-3" align="center">Cognitive Science</h1><p class="lead" align="center">Danielle Navarro</p></div>'
+output:
+  html_document:
+    theme: flatly
+    highlight: textmate
+    css: mystyle.css
+pagetitle: "Cognitive Science"
+---
+
+```{r,echo=FALSE}
+rm(list=objects()) # start with a clean workspace
+```
+
+
+## Lecture 1: Connectionism
+
+Topics covered: Associative learning via the Rescorla-Wagner rule. Connection to other error driven learning rules. Using networks as classifiers. More complex networks and pattern matching.
+
+- Slides in [PowerPoint](lecture1_connectionism.pptx) format
+- Slides in [PDF](lecture1_connectionism.pdf) format
+
+## Lecture 2: Statistical learning
+
+Topics covered: Introduction to Bayesian reasoning. A model for judging coincidences. Comments on conservative belief upating. A model of the perceptual magnet effect. Bayesian program induction for concept learning.
+
+- Slides in [PowerPoint](lecture2_statisticallearning.pptx) format
+- Slides in [PDF](lecture2_statisticallearning.pdf) format
+
+## Lecture 3: Semantic networks
+
+Topics covered: Semantic priming and spreading activation. The small world of words project. Local network structure. Predicting remote associations. Structure of semantic networks. Developmental trajectory
+
+- Slides in [PowerPoint](lecture3_semanticnetworks.pptx) format
+- Slides in [PDF](lecture3_semanticnetworks.pdf) format
+
+## Lecture 4: The wisdom of crowds
+
+Topics covered: Galton's vox populi. Surowiecki's criteria. Wisdom of crowds for ranking data. Example from category learning. Wisdom of crowds in combinatorial optimisation problems. Compensating for strategic behaviour. Application in forensic science
+
+- Slides in [PowerPoint](lecture4_wisdomofcrowds.pptx) format
+- Slides in [PDF](lecture4_wisdomofcrowds.pdf) format
+
+
+## Lecture 5: Cultural transmission
+
+Topics covered: The iterated learning paradigm. Theoretical argument that it reveals inductive biases. Illustration with function learning task. Limitations when individual differences exist. Cumulative cultural evolution in a language game.
+
+- Slides in [PowerPoint](lecture5_culturaltransmission.pptx) format
+- Slides in [PDF](lecture5_culturaltransmission.pdf) format
+
+## Lecture 6: Summary
+
+Classroom discussion, no slides
